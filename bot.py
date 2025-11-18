@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 import requests
 import asyncio
 import json
@@ -958,4 +956,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
